@@ -1,0 +1,45 @@
+{
+  "name": "qrcodeattend-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QRCodeAttend - Proxy-Free Attendance Management System Frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .jsx,.js"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.50.1",
+    "@tanstack/react-query-devtools": "^5.50.1",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
+    "framer-motion": "^11.3.2",
+    "html5-qrcode": "^2.3.8",
+    "qrcode": "^1.5.4",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.52.1",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.24.1",
+    "socket.io-client": "^4.7.5",
+    "zod": "^3.23.8",
+    "@hookform/resolvers": "^3.9.0",
+    "zustand": "^4.5.4",
+    "lucide-react": "^0.400.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9.6.0",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}
