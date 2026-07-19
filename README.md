@@ -4,8 +4,8 @@
   # 🎯 QRCodeAttend
   **The Next-Generation, Proxy-Free Attendance Management System**
   
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-Frontend-6366f1?style=for-the-badge&logo=react)](https://qrcodeattend-4qp8.onrender.com)
-  [![Backend API](https://img.shields.io/badge/API-Backend-10b981?style=for-the-badge&logo=node.js)](https://qrcodeattend-backend-9y9u.onrender.com/api/docs)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-6366f1?style=for-the-badge&logo=react)](https://qrcodeattend-4qp8.onrender.com)
+  [![Backend API](https://img.shields.io/badge/Backend%20API-Live-10b981?style=for-the-badge&logo=nodedotjs)](https://qrcodeattend-backend-9y9u.onrender.com/api/docs)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 </div>
 
